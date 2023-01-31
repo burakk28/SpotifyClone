@@ -2,13 +2,13 @@
  
 In this project, I designed the main screen of the spotify application.
 
-Framework ;
+Framework 
 
 - UIKit
 
 Architecture
 
--MVC
+- MVC
 
 I used for the Spotify application screen;
 
