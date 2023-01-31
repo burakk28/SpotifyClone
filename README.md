@@ -2,13 +2,20 @@
  
 In this project, I designed the main screen of the spotify application.
 
+Framework ;
+
+- UIKit
+
+Architecture
+
+-MVC
+
 I used for the Spotify application screen;
 
 - ScrollView
 - CollectionView
 - StackView
 - Auto Layout
-
 
 Screens ; <br>
 
